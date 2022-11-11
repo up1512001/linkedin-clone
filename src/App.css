@@ -12,3 +12,15 @@ body  {
 code {
   font-family: source-code-pro,Melon,Monaco,Consolas,'Courier New',monospace;
 }
+
+.app__body{
+  display: flex;
+  width: 100%;
+}
+
+.app{
+  background-color: #f3f2ef;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
